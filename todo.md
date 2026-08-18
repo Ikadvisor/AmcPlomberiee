@@ -1,0 +1,7 @@
+- [x] Extraire et examiner la version antérieure fournie.
+- [x] Identifier les choix qui rendent son rendu plus spécifique et moins généré.
+- [x] Réviser la direction visuelle et le contenu de l’interface actuelle.
+- [x] Vérifier les formats desktop et mobile puis sauvegarder la révision.
+- [x] Examiner la configuration de build et le chemin de base du site.
+- [x] Produire une sortie statique avec chemins relatifs et page de secours.
+- [x] Vérifier le contenu de distribution avant publication via GitHub Pages.
